@@ -1,6 +1,6 @@
 # SSL
 
 <p>Materia: Sintaxis y semantica de los lenguajes</p>
-Nombre: Joaquín Fatur
-Curso: k2006
-Legajo: 207.984-7
+<p>Nombre: Joaquín Fatur</p>
+<p>Curso: k2006</p>
+<p>Legajo: 207.984-7</p>
