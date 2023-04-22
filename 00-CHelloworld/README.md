@@ -1,4 +1,4 @@
-# TP 0: "Hello, World!” en C
+## TP 0: "Hello, World!” en C
 
  Compilador seleccionado
 
